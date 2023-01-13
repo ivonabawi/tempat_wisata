@@ -25,7 +25,7 @@ class Home extends StatelessWidget {
   final String title = 'Ivo Nabawi Setyawan';
   final String location = 'Solo, Jawa Tengah';
   final String description =
-      'Halo guys perkenalkan saya Ivo Nabawi Setyawan, mahasiswa Politeknik Negeri Semarang angkatan 2021 \n Prodi D3-Teknik Informatika, \nJurusan Teknik Elektro, \nPoliteknik Negeri Semarang. \n \n MOTTO : \n "Ingin tidur tapi terlanjur ngopi"';
+      'Halo guys perkenalkan saya Ivo Nabawi Setyawan, mahasiswa Politeknik Negeri Semarang angkatan 2021 \n Prodi D3-Teknik Informatika, \nJurusan Teknik Elektro, \nPoliteknik Negeri Semarang. \n \n MOTTO : \n "Tertawalah sebelum tertawa dilarang"';
 
   @override
   Widget build(BuildContext context) {
